@@ -1,3 +1,4 @@
 tensorly
-pytorch
+torch
 scikit-learn
+git+git://github.com/JeanKossaifi/iopy.git
