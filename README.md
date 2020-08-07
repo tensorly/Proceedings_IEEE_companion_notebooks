@@ -1,5 +1,4 @@
-# IEEE_procs_tensor_methods
-Code for our IEEE special issue on tensor methods for DL and CV
+# IEEE Companion notebooks
 
 ## Installing the dependencies
 The easiest way to get all the dependencies is to run:
